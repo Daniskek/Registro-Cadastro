@@ -1,0 +1,11 @@
+
+
+AnoMes=202311
+TipoFolha=5
+SeqFolhaPagamento=1
+
+[{"lancamentos":[{"codigoComponente":"172","valorComponente":1702.07,"indicativoProventoDesconto":"P"},{"codigoComponente":"184","valorComponente":567.36,"indicativoProventoDesconto":"P"},{"codigoComponente":"222","valorComponente":1702.07,"indicativoProventoDesconto":"P"},{"codigoComponente":"303","valorComponente":133.38,"indicativoProventoDesconto":"D"}],"numeroCPF":"07604704999","indicativoContaBancaria":"N","codigoUnidadeOrcamentaria":1001,"numeroMatricula":"1-1665"}]
+
+
+
+Finaliza��o Pacote:{"somatorioProventos":3971.50,"somatorioDescontos":133.38,"chavePacote":"eyJpZGVudGlmaWNhZG9ySU5UX1JlbWVzc2FPbkxpbmUiOiI1MDM1MTYwMSIsInRpcG9Gb2xoYSI6IjUiLCJpZGVudGlmaWNhZG9yVW5pZGFkZUdlc3RvcmEiOiIyMDM1Iiwic2VxRm9saGFQYWdhbWVudG8iOiIxIiwiYW5vTWVzIjoiMjAyMzExIn0=","quantidadeRegistrosDescontos":1,"quantidadeRegistrosEnviados":4,"quantidadeRegistrosProventos":3}
